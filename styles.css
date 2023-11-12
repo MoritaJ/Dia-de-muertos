@@ -1,0 +1,64 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f7f7f7;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #5d0865;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+main {
+    max-width: 800px;
+    margin: 20px auto;
+}
+
+/* Imagen del usuarix */
+
+
+.ofrenda {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.menu{
+    text-align: center;
+    margin: px;
+}
+
+
+.cementerio{
+    text-align: center;
+    margin: px;
+}
+
+.cementerio img {
+    white-space: 45px;
+    height: 4px;
+}
+
+.item {
+    text-align: center;
+    margin: 25px;
+}
+
+.item img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+footer {
+    text-align: center;
+    background-color: #5d0865;
+    color: #fff;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
